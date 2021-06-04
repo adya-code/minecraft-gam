@@ -1,0 +1,27 @@
+#current_size{
+background-color: rgb(233, 22, 22);
+}
+
+body{
+	background-size: cover;
+	background-image:url("background.jpg");
+}
+#topic{
+
+background-color: darkblue;
+height: 10;
+width: 30;
+}
+
+#canvas_page{
+
+	background-color:wheat;
+}
+
+#instuction{
+
+font-family: cursive;
+font-style: italic;
+background: linear-gradient(to right, #a8ff78, #78ffd6);
+width: 30;
+}
